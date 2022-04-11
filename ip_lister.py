@@ -1,5 +1,4 @@
 import ipaddress
-from netaddr import IPNetwork
 import sys
 from rich import print
 from tqdm.rich import tqdm 
